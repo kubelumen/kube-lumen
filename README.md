@@ -1,1 +1,1 @@
-# kube-lumen
+Simple Kubernetes health panel for project evaluation.
